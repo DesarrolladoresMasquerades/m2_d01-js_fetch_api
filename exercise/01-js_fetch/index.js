@@ -29,7 +29,7 @@ async function handleShowDetails(event) {
   const showId = select.value;
   if (!showId) return;
 
-  const oneMovieQuery = ///... create the query stirng here and then use it to fetch.
+  const oneMovieQuery = ""; ///... create the query stirng here and then use it to fetch.
 
   // fetch and manipualte DOM here
 }
